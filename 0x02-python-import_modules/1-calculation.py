@@ -5,7 +5,7 @@ if __name__ == "__main__":
     """Print the Additional, difference, multiple and Division  of 10 and 5."""
     from calculator_1 import add, sub, mul, div
 
-    a = 10
+    a = 1
     b = 5
 
     print("{} + {} = {}".format(a, b, add(a, b)))
